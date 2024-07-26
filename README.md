@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @ChaudhryWaqar
+- 👋 Hi, I’m @MuhammadWaqar
 - 👀 I’m interested in leveraging data science and machine learning to solve complex problems using Microsoft Fabric and Azure platforms.
 - 🌱 I’m currently learning advanced analytics and AI integration within the Azure ecosystem.
 - 💞️ I’m looking to collaborate on projects involving big data analytics, cloud solutions, and scalable machine learning models.
