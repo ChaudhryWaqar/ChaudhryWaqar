@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @MuhammadWaqar
 - 👀 I’m interested in leveraging data science and machine learning to solve complex problems using Microsoft Fabric and Azure platforms.
-- 🌱 I’m currently learning advanced analytics and AI integration within the Azure ecosystem.
+- 🌱 I’m currently learning advanced analytics and AI integration within the Microsoft Fabric and Azure AI ecosystem.
 - 💞️ I’m looking to collaborate on projects involving big data analytics, cloud solutions, and scalable machine learning models.
-- 📫 How to reach me: [muhammad.waqar@confiz.com] | [www.linkedin.com/in/muhammad-waqar-072b32303] | 
+- 📫 How to reach me: [m.waqarhussain000@gmail.com] | [www.linkedin.com/in/m-waqarhussain000] | 
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I love turning data into actionable insights and have a passion for exploring new cloud technologies.
